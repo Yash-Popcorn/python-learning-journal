@@ -1,8 +1,8 @@
 # python-learning-journal
 A repository to document my Python learning journey
-#About Me
+## About Me
 My name is Yash. I code for fun, and I am taking a datastructures course.
-Goals for This Course
+## Goals for This Course
 Learn about datastructures and how to apply it in different scenarios.
 
 
